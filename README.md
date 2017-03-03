@@ -13,3 +13,4 @@ roland's fun showfor.json for lithium repo
     8. Mozilla Support Community :: Mozilla Support - English ::Contributor Resources :: Templates
     9. Mozilla Support Community :: Mozilla Support - English :: Archive
     10. Mozilla Support Community :: Mozilla Support - English :: Common Responses
+    11. Mozilla Support Community :: Mozilla Support - English
