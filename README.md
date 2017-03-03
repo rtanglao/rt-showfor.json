@@ -3,7 +3,7 @@ roland's fun showfor.json for lithium repo
 
 ## March 2, 2017
 
-1. fix problems with showfor.json (corrupted because of minify errors? copy and paste errors? [here is the corrupted Android showfor.json](https://gist.github.com/rtanglao/56ea41d22cc7a868038f5310c53f7c11) in case we ever need it :-)). After running through an [un-minifier](http://unminify.com/):
+1. [bug 1339484](https://bugzilla.mozilla.org/show_bug.cgi?id=1339484)-fix free marker template problems with showfor.json (corrupted because of minify errors? copy and paste errors? [here is the corrupted Android showfor.json](https://gist.github.com/rtanglao/56ea41d22cc7a868038f5310c53f7c11) in case we ever need it :-)). After running through an [un-minifier](http://unminify.com/):
     2. global search and replace "!0" with "true"
     3. global search and replace "!1" with "false"
     4. make firefox 51 the default for desktop i.e. fx51
