@@ -461,7 +461,7 @@
 		"firefox": [{
 			"product": "firefox",
 			"name": "Version 53",
-			"default": false,
+			"default": true,
 			"min_version": 53.0,
 			"visible": true,
 			"max_version": 54.0,
@@ -477,7 +477,7 @@
 		}, {
 			"product": "firefox",
 			"name": "Version 51",
-			"default": true,
+			"default": false,
 			"min_version": 51.0,
 			"visible": true,
 			"max_version": 52.0,
