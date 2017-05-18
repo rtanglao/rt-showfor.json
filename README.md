@@ -1,6 +1,10 @@
 # rt-showfor.json
 roland's fun showfor.json for lithium repo
 
+## 17May2017
+* Add https://github.com/rtanglao/rt-showfor.json/blob/master/custom.show-for.xml which comes from: \
+https://support-stage.allizom.org/t5/bizapps/page/tab/community%3Astudio%3Acustom-content?component=custom.show-for
+
 ## 16May2017
 * As pointed out by the fab Alice, Showfor set default **IS** working for certain articles like: https://hwsfp35778.lithium.com/t5/Documents-Archive/quot-This-Connection-is-Untrusted-quot-error-message-appears/ta-p/589 see https://bugzilla.mozilla.org/show_bug.cgi?id=1341813#c13
 ## 10May2017
