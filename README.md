@@ -1,6 +1,8 @@
 # rt-showfor.json
 roland's fun showfor.json for lithium repo
 
+## 16May2017
+* As pointed out by the fab Alice, Showfor set default **IS** working for certain articles like: https://hwsfp35778.lithium.com/t5/Documents-Archive/quot-This-Connection-is-Untrusted-quot-error-message-appears/ta-p/589 see https://bugzilla.mozilla.org/show_bug.cgi?id=1341813#c13
 ## 10May2017
 * 1\. made fx53 the default (default was formerly fx50) and uploaded it as per March 2, 2017 procedure but it's still showing fx50 as the default. and I updated the bug: https://bugzilla.mozilla.org/show_bug.cgi?id=1341813#c7
 
