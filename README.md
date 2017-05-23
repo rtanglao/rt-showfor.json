@@ -1,5 +1,8 @@
 # rt-showfor.json
 roland's fun showfor.json for lithium repo
+## 22May2017
+* 1\. https://hwsfp35778.lithium.com/t5/bizapps/page/node-display-id/category%3AFix-Slowness/tab/community%3Aadmin%3Asystem%3Asettings-list-editor ```Mozilla Support English``` -> ```Firefox``` -> ```Fix Problems```
+has the following showfor.json:
 
 ## 17May2017
 * 1\. Added https://github.com/rtanglao/rt-showfor.json/blob/master/custom.show-for.xml which comes from: \
