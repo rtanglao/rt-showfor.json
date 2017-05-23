@@ -3,7 +3,7 @@ roland's fun showfor.json for lithium repo
 ## 22May2017
 * 1\. article [https://hwsfp35778.lithium.com/t5/Videos-sound-pictures-and/Troubleshoot-issues-with-plugins-like-Flash-or-Java-to-fix/ta-p/1157](https://hwsfp35778.lithium.com/t5/Videos-sound-pictures-and/Troubleshoot-issues-with-plugins-like-Flash-or-Java-to-fix/ta-p/1157) with showfor.json at: https://hwsfp35778.lithium.com/t5/bizapps/page/node-display-id/category%3AFix-Slowness/tab/community%3Aadmin%3Asystem%3Asettings-list-editor ```Mozilla Support English``` -> ```Firefox``` -> ```Fix Problems```
 which **doesn't** work according to Alice in [comment 15 of bug 1341813\(https://bugzilla.mozilla.org/show_bug.cgi?id=1341813#c15) has the following unminfied showfor.json: [https://github.com/rtanglao/rt-showfor.json/blob/master/unminified-Mozilla%20Support%20English%20-%3E%20Firefox%20-%3E%20Fix%20Problems.json](https://github.com/rtanglao/rt-showfor.json/blob/master/unminified-Mozilla%20Support%20English%20-%3E%20Firefox%20-%3E%20Fix%20Problems.json)
-* 2\. 
+* 2\. template article [https://hwsfp35778.lithium.com/t5/Firefox/Template-PluginSupportEOL/ta-p/28718](https://hwsfp35778.lithium.com/t5/Firefox/Template-PluginSupportEOL/ta-p/28718) with showfor.json at: https://hwsfp35778.lithium.com/t5/bizapps/page/node-display-id/tkb-board%3AFirefoxtemplates/tab/community%3Aadmin%3Asystem%3Asettings-list-editor ```Mozilla Support English``` -> ```Contributor Resources``` -> ```Templates``` -> ```Firefox``` has the following unminified showfor.json:
 
 ## 17May2017
 * 1\. Added https://github.com/rtanglao/rt-showfor.json/blob/master/custom.show-for.xml which comes from: \
