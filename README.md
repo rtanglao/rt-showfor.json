@@ -1,5 +1,9 @@
 # rt-showfor.json
 roland's fun showfor.json for lithium repo
+
+## Other folks showfor stuff
+* see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
+
 ## 23May2017
 * 1\. changed default to 53 from 51, resulting unminified file: https://github.com/rtanglao/rt-showfor.json/blob/master/23may2017-unminified-ff53default-Mozilla_Support_English-Contributor_Resources-Templates-Firefox.json
 * 2\. minified it with http://www.cleancss.com/json-minify/, resulting minified file: https://github.com/rtanglao/rt-showfor.json/blob/master/23may-2017-minified-ff53default-Mozilla_Support_English-Contributor_Resources-Templates-Firefox.json
