@@ -1,14 +1,14 @@
 # rt-showfor.json
 roland's fun showfor.json for lithium repo
 
-## Other folks showfor stuff
+## Other folks' showfor stuff
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
 ## 24May2017
 * 1\. paste yesterday's ```showfor.json``` i.e. https://github.com/rtanglao/rt-showfor.json/blob/master/23may-2017-minified-ff53default-Mozilla_Support_English-Contributor_Resources-Templates-Firefox.json into ```Contributor Resources``` -> ```Templates``` -> ```Firefox``` into ```Mozilla Support English``` -> ```Firefox``` -> ```Fix Problems``` and see it if fixes i.e. ff53 as default in https://hwsfp35778.lithium.com/t5/Videos-sound-pictures-and/Why-do-I-have-to-click-to-activate-plugins/ta-p/5122
 * 2\. it does! SUCCESS!
 * 3\. paste yeserday's JSON into ```Personalize Firefox``` -> ```Manage preferences and add-ons``` and see if it shows 53 as default https://hwsfp35778.lithium.com/t5/Manage-preferences-and-add-ons/How-to-turn-off-Java-applets/ta-p/970 
-
+* 4\. it does! SUCCESS!
 
 ## 23May2017
 * 1\. changed default to 53 from 51, resulting unminified file: https://github.com/rtanglao/rt-showfor.json/blob/master/23may2017-unminified-ff53default-Mozilla_Support_English-Contributor_Resources-Templates-Firefox.json
