@@ -4,6 +4,8 @@ roland's fun showfor.json for lithium repo
 ## Other folks' showfor stuff
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
+## 26May2017
+* 1\. test showfor inheritance: paste working showfor.json with 53 as default into ```Mozilla Support English``` -> ```Contributor Resources``` -> ```Templates``` and delete showfor.json i.e. make it blank in ```Mozilla Support English``` -> ```Contributor Resources``` -> ```Templates``` -> ```Firefox``` and see if it works i.e. https://hwsfp35778.lithium.com/t5/Firefox/Template-PluginSupportEOL/ta-p/28718 still shows 53 as default
 ## 24May2017
 * 1\. paste yesterday's ```showfor.json``` i.e. https://github.com/rtanglao/rt-showfor.json/blob/master/23may-2017-minified-ff53default-Mozilla_Support_English-Contributor_Resources-Templates-Firefox.json into ```Contributor Resources``` -> ```Templates``` -> ```Firefox``` into ```Mozilla Support English``` -> ```Firefox``` -> ```Fix Problems``` and see it if fixes i.e. ff53 as default in https://hwsfp35778.lithium.com/t5/Videos-sound-pictures-and/Why-do-I-have-to-click-to-activate-plugins/ta-p/5122
 * 2\. it does! SUCCESS!
