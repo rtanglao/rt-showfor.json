@@ -4,6 +4,9 @@ roland's fun showfor.json for lithium repo
 ## Other folks' showfor stuff
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
+## 29May2017 
+* 1\. test if the fixed showfor without iOS from 26may fixes https://bugzilla.mozilla.org/show_bug.cgi?id=1336834
+
 ## 26May2017
 * 1\. test showfor inheritance: paste working showfor.json with 53 as default into ```Mozilla Support English``` -> ```Contributor Resources``` -> ```Templates``` and delete showfor.json i.e. make it blank in ```Mozilla Support English``` -> ```Contributor Resources``` -> ```Templates``` -> ```Firefox``` and see if it works i.e. https://hwsfp35778.lithium.com/t5/Firefox/Template-PluginSupportEOL/ta-p/28718 still shows 53 as default
 * 2\. I didn't do the test in 1. exactly! instead i just deleted the showfor.json from ```Mozilla Support English``` -> ```Contributor Resources``` -> ```Templates``` -> ```Firefox```. That's it that's all :-) ! And it appeared to inherit the showfor.json from ```Mozilla Support English``` -> ```Contributor Resources``` -> ```Templates```  or even higher up in the inheritance tree of the community structure.
