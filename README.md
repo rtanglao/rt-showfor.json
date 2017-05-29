@@ -5,7 +5,7 @@ roland's fun showfor.json for lithium repo
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
 ## 29May2017 
-* 1\. test if the fixed showfor without iOS from 26may fixes https://bugzilla.mozilla.org/show_bug.cgi?id=1336834 on https://hwsfp35778.lithium.com/t5/Personalize-Firefox/Control-whether-Firefox-automatically-fills-in-forms/tac-p/1389972
+* 1\. test if the fixed showfor without iOS from 26may fixes https://bugzilla.mozilla.org/show_bug.cgi?id=1336834 on https://hwsfp35778.lithium.com/t5/Personalize-Firefox/Control-whether-Firefox-automatically-fills-in-forms/tac-p/1389972 by copy and passing into https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin%3Asystem%3Asettings-list-editor/node-display-id/tkb-board%3APersonalizeFirefox i.e. ```Mozilla Support English``` -> ```Firefox``` -> ```Personalize Firefox```
 
 ## 26May2017
 * 1\. test showfor inheritance: paste working showfor.json with 53 as default into ```Mozilla Support English``` -> ```Contributor Resources``` -> ```Templates``` and delete showfor.json i.e. make it blank in ```Mozilla Support English``` -> ```Contributor Resources``` -> ```Templates``` -> ```Firefox``` and see if it works i.e. https://hwsfp35778.lithium.com/t5/Firefox/Template-PluginSupportEOL/ta-p/28718 still shows 53 as default
