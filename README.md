@@ -6,6 +6,8 @@ roland's fun showfor.json for lithium repo
 
 ## 30May2017
 * 1\. test if the [fixed showfor with FF53 default without iOS from 3 weeks ago](https://raw.githubusercontent.com/rtanglao/rt-showfor.json/master/fx53-is-default-minified.json) fixes https://bugzilla.mozilla.org/show_bug.cgi?id=1328563 on https://hwsfp35778.lithium.com/t5/Protect-your-privacy/Private-Browsing-Use-Firefox-without-saving-history/ta-p/4473 fixes https://bugzilla.mozilla.org/show_bug.cgi?id=1328563 by copying and pasting into https://hwsfp35778.lithium.com/t5/bizapps/page/node-display-id/tkb-board%3AProtect-Privacy/tab/community%3Aadmin%3Asystem%3Asettings-list-editor i.e. ```Mozilla Support English``` -> ```Firefox``` -> ```Protect your privacy```
+* 2\. And it fails! Still shows both Linux and Mac if you select Linux while on Mac.
+
 ## 29May2017 
 * 1\. test if the [fixed showfor with FF53 default without iOS from 3 weeks ago](https://raw.githubusercontent.com/rtanglao/rt-showfor.json/master/fx53-is-default-minified.json) fixes https://bugzilla.mozilla.org/show_bug.cgi?id=1336834 on https://hwsfp35778.lithium.com/t5/Personalize-Firefox/Control-whether-Firefox-automatically-fills-in-forms/tac-p/1389972 by copy and passing into https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin%3Asystem%3Asettings-list-editor/node-display-id/tkb-board%3APersonalizeFirefox i.e. ```Mozilla Support English``` -> ```Firefox``` -> ```Personalize Firefox```
 * 2\. **And if WORKS yay! me! :-)**
