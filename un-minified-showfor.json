@@ -73,7 +73,31 @@
 		"title": "Thunderbird"
 	}],
 	"versions": {
-		"mobile": [{
+	    "mobile": [{
+		"product": "mobile",
+		"name": "Version 55",
+		"default": false,
+		"min_version": 55.0,
+		"visible": true,
+		"max_version": 56.0,
+		"slug": "m55"
+	    },{
+		"product": "mobile",
+		"name": "Version 54",
+		"default": true,
+		"min_version": 54.0,
+		"visible": true,
+		"max_version": 55.0,
+		"slug": "m54"
+	    },{
+		"product": "mobile",
+		"name": "Version 53",
+		"default": false,
+		"min_version": 53.0,
+		"visible": true,
+		"max_version": 54.0,
+		"slug": "m53"
+	    },{
 			"product": "mobile",
 			"name": "Version 52",
 			"default": false,
@@ -84,7 +108,7 @@
 		}, {
 			"product": "mobile",
 			"name": "Version 51",
-			"default": true,
+			"default": false,
 			"min_version": 51.0,
 			"visible": true,
 			"max_version": 52.0,
@@ -458,10 +482,26 @@
 			"max_version": 5.0,
 			"slug": "m4"
 		}],
-		"firefox": [{
+	    "firefox": [{
+		"product": "firefox",
+		"name": "Version 55",
+		"default": false,
+		"min_version": 55.0,
+		"visible": true,
+		"max_version": 56.0,
+		"slug": "fx55"
+	    },{
+		"product": "firefox",
+		"name": "Version 54",
+		"default": true,
+		"min_version": 54.0,
+		"visible": true,
+		"max_version": 55.0,
+		"slug": "fx54"
+	    },{
 			"product": "firefox",
 			"name": "Version 53",
-			"default": true,
+			"default": false,
 			"min_version": 53.0,
 			"visible": true,
 			"max_version": 54.0,
