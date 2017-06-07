@@ -1,8 +1,10 @@
 # rt-showfor.json
-roland's fun showfor.json for lithium repo
-
+roland's fun showfor.json for lithium repo 
 ## Other folks' showfor stuff
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
+
+## 06June2017
+* 1\. create Firefox 54 as default un-minified showfor.json from 53 default version of [un-minified showfor.json](https://github.com/rtanglao/rt-showfor.json/blob/master/un-minified-showfor.json)
 
 ## 30May2017
 * 1\. test if the [fixed showfor with FF53 default without iOS from 3 weeks ago](https://raw.githubusercontent.com/rtanglao/rt-showfor.json/master/fx53-is-default-minified.json) fixes https://bugzilla.mozilla.org/show_bug.cgi?id=1328563 on https://hwsfp35778.lithium.com/t5/Protect-your-privacy/Private-Browsing-Use-Firefox-without-saving-history/ta-p/4473 fixes https://bugzilla.mozilla.org/show_bug.cgi?id=1328563 by copying and pasting into https://hwsfp35778.lithium.com/t5/bizapps/page/node-display-id/tkb-board%3AProtect-Privacy/tab/community%3Aadmin%3Asystem%3Asettings-list-editor i.e. ```Mozilla Support English``` -> ```Firefox``` -> ```Protect your privacy```
