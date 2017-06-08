@@ -5,6 +5,8 @@ roland's fun showfor.json for lithium repo
 
 ## 07June2017
 * 1\. test if the [fixed showfor with FF54 default](https://github.com/rtanglao/rt-showfor.json/blob/master/showfor.json) fixes https://bugzilla.mozilla.org/show_bug.cgi?id=1336834 on https://hwsfp35778.lithium.com/t5/Personalize-Firefox/Control-whether-Firefox-automatically-fills-in-forms/tac-p/1389972 by copy and passing into https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin%3Asystem%3Asettings-list-editor/node-display-id/tkb-board%3APersonalizeFirefox i.e. ```Mozilla Support English``` -> ```Firefox``` -> ```Personalize Firefox```
+* 2\. it works!
+* 3\. copy and paste into all English KB categories
 ## 06June2017
 * 1\. create [Firefox 54 as default un-minified showfor.json](https://github.com/rtanglao/rt-showfor.json/blob/master/54-as-default-un-minified-showfor.json) from 53 default version of [un-minified showfor.json](https://github.com/rtanglao/rt-showfor.json/blob/master/un-minified-showfor.json)
 * 2\. ```cp 54-as-default-un-minified-showfor.json  un-minified-showfor.json``` so we have a history and something we can diff
