@@ -6,6 +6,7 @@ require 'pp'
 require 'openssl'
 require "awesome_print"
 
+prev_setting = OpenSSL::SSL.send(:remove_const, :VERIFY_PEER)
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 I_KNOW_THAT_OPENSSL_VERIFY_PEER_EQUALS_VERIFY_NONE_IS_WRONG = nil
 
@@ -28,7 +29,11 @@ showfor_page = mechanize.get ARGV[0]
 form = showfor_page.forms[1]
 # $stderr.printf("BEFORE\n)
 # ap form.show_forversion_config
-print form.show_forversion_config
+$stderr.print form.show_forversion_config
+showfor_minified = File.read(ARGV[1])
+print showfor_minified
+
+#form.show_forversion_config = 
 
 #pp tkb_page
 # puts("POSSIBLE-locale,link")
