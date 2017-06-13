@@ -3,6 +3,21 @@ roland's fun showfor.json for lithium repo
 ## Other folks' showfor stuff
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
+## 12June2017
+* 1\. sample script run to update top level german i.e. ```Mozilla Support Community``` -> ```Mozilla Hilfe - Deutsch```:
+```bash
+./paste-showfor.json.rb \
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin%3Asystem%3Asettings-list-editor/node-display-id/category%3Ade\
+showfor.json
+```
+* 2\. read what we just changed i.e. ```Mozilla Support Community``` -> ```Mozilla Hilfe - Deutsch```
+```bash
+./print-showfor.json.rb https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin%3Asystem%3Asettings-list-editor/node-display-id/category%3Ade >german.json
+```
+* 3\. it should be what we passed in and it is!
+```bash
+diff -w german.json showfor.json
+```
 ## 07June2017
 * 1\. test if the [fixed showfor with FF54 default](https://github.com/rtanglao/rt-showfor.json/blob/master/showfor.json) fixes https://bugzilla.mozilla.org/show_bug.cgi?id=1336834 on https://hwsfp35778.lithium.com/t5/Personalize-Firefox/Control-whether-Firefox-automatically-fills-in-forms/tac-p/1389972 by copy and passing into https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin%3Asystem%3Asettings-list-editor/node-display-id/tkb-board%3APersonalizeFirefox i.e. ```Mozilla Support English``` -> ```Firefox``` -> ```Personalize Firefox```
 * 2\. it works!
