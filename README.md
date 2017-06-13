@@ -12,7 +12,9 @@ showfor.json
 ```
 * 2\. read what we just changed i.e. ```Mozilla Support Community``` -> ```Mozilla Hilfe - Deutsch```
 ```bash
-./print-showfor.json.rb https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin%3Asystem%3Asettings-list-editor/node-display-id/category%3Ade >german.json
+./print-showfor.json.rb \ 
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin%3Asystem%3Asettings-list-editor/node-display-id/category%3Ade \
+>german.json
 ```
 * 3\. it should be what we passed in and it is!
 ```bash
