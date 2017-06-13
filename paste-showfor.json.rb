@@ -6,6 +6,8 @@ require 'pp'
 require 'openssl'
 require "awesome_print"
 
+# https://stackoverflow.com/questions/1113422/how-to-bypass-ssl-certificate-verification-in-open-uri
+# https://gist.github.com/siruguri/66926b42a0c70ef7119e kludge:
 prev_setting = OpenSSL::SSL.send(:remove_const, :VERIFY_PEER)
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 I_KNOW_THAT_OPENSSL_VERIFY_PEER_EQUALS_VERIFY_NONE_IS_WRONG = nil
@@ -23,24 +25,13 @@ form.field_with(id: 'lia-password').value = password
 
 page = form.submit
 
-#$stderr.printf("HTTP GET: %s\n", ARGV[0])
 
 showfor_page = mechanize.get ARGV[0]
 form = showfor_page.forms[1]
-# $stderr.printf("BEFORE\n)
-# ap form.show_forversion_config
-$stderr.print form.show_forversion_config
+$stderr.print form.show_forversion_config #old value on stderr
 showfor_minified = File.read(ARGV[1])
-print showfor_minified
+print showfor_minified #new value on stdout
 
-#form.show_forversion_config = 
+form.field_with(id: 'show_forversion_config').value = showfor_minified
+form.submit
 
-#pp tkb_page
-# puts("POSSIBLE-locale,link")
-# tkb_page.css('div.tkb-other-language-link').each do |l|
-#   possible_locale = l.css('a:nth-child(1)').children.text
-#   possible_locale = "NOT en-us" if possible_locale == "English (US)"
-#   printf("%s,%s\n", possible_locale,
-#          "https://support.mozilla.org" +
-#          l.css('a:nth-child(1)/@href').first.value)
-# end

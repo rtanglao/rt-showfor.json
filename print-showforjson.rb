@@ -5,6 +5,9 @@ require 'parseconfig'
 require 'pp'
 require 'openssl'
 
+# https://stackoverflow.com/questions/1113422/how-to-bypass-ssl-certificate-verification-in-open-uri
+# https://gist.github.com/siruguri/66926b42a0c70ef7119e kludge:
+prev_setting = OpenSSL::SSL.send(:remove_const, :VERIFY_PEER)
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 I_KNOW_THAT_OPENSSL_VERIFY_PEER_EQUALS_VERIFY_NONE_IS_WRONG = nil
 
