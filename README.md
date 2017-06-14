@@ -3,6 +3,9 @@ roland's fun showfor.json for lithium repo
 ## Other folks' showfor stuff
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
+## 14June2017
+* 1\. added Finnish
+
 ## 13June2017
 ### Multiple files at a time
 
