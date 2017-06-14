@@ -3,6 +3,15 @@ roland's fun showfor.json for lithium repo
 ## Other folks' showfor stuff
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
+## 13June2017
+* 1\. inheritance seems to work :-) Try with French: i.e. ```Mozilla Support Community``` -> ```Assistance de Mozila Français``` aka https://hwsfp35778.lithium.com/t5/bizapps/page/node-display-id/category%3Afr/tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+* 2\. 
+```bash
+./paste-showfor.json.rb \
+https://hwsfp35778.lithium.com/t5/bizapps/page/node-display-id/category%3Afr/tab/community%3Aadmin%3Asystem%3Asettings-list-editor \
+showfor.json
+```
+
 ## 12June2017
 * 1\. sample [paste-showfor.json.rb](https://github.com/rtanglao/rt-showfor.json/blob/master/paste-showfor.json.rb) run to update top level german i.e. ```Mozilla Support Community``` -> ```Mozilla Hilfe - Deutsch``` (stderr is the value BEFORE paste, stdout is the value being pasted e.g. in this example [https://github.com/rtanglao/rt-showfor.json/blob/master/showfor.json](showfor.json)), ```ARGV0``` is the URL of the Lithium showfor category e.g. [german top level is https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin%3Asystem%3Asettings-list-editor/node-display-id/category%3Ade](https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin%3Asystem%3Asettings-list-editor/node-display-id/category%3Ade) ```ARGV1``` is the minified showfor.json file:
 ```bash
