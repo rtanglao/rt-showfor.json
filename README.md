@@ -7,10 +7,10 @@ roland's fun showfor.json for lithium repo
 ### Multiple files at a time
 ```bash
 cat showfor-without-french-and-german.txt | \
-parallel ./paste-showfor.json.rb {} showfor.json
+parallel -N 1 ./paste-showfor.json.rb {} showfor.json
 ```
 ### One file at a time
-* 1\. inheritance seems to work :-) Try with French: i.e. ```Mozilla Support Community``` -> ```Assistance de Mozila Français``` aka https://hwsfp35778.lithium.com/t5/bizapps/page/node-display-id/category%3Afr/tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+* 1\. inheritance seems to work :-) (but you have to do it product by product at least for spanish you have to do  ES AND Firefox->ES ) Try with French: i.e. ```Mozilla Support Community``` -> ```Assistance de Mozila Français``` aka https://hwsfp35778.lithium.com/t5/bizapps/page/node-display-id/category%3Afr/tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 * 2\. how to test with French
 ```bash
 ./paste-showfor.json.rb \
