@@ -5,10 +5,15 @@ roland's fun showfor.json for lithium repo
 
 ## 13June2017
 ### Multiple files at a time
+
+* 1\. today I did english, spanish, french and german
 ```bash
 cat showfor-without-french-and-german.txt | \
 parallel -N 1 ./paste-showfor.json.rb {} showfor.json
 ```
+* 2\. time to ask the community to test in english spanish, french and german!
+* 3\. tomorrow do the rest!
+
 ### One file at a time
 * 1\. inheritance seems to work :-) (but you have to do it product by product at least for spanish you have to do  ES AND Firefox->ES ) Try with French: i.e. ```Mozilla Support Community``` -> ```Assistance de Mozila Français``` aka https://hwsfp35778.lithium.com/t5/bizapps/page/node-display-id/category%3Afr/tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 * 2\. how to test with French
