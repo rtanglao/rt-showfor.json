@@ -15,3 +15,15 @@ https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3ASupport-Forums-es/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AContributor_resources_spanish/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3Atkb-templates-es/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Afi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-Android-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-iOS-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-OS-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFocus-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AThunderbird-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AWebmaker-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AKlar-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AArchive-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3ASupport-Forums-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3Atkb-templates-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
