@@ -6,6 +6,7 @@ require 'pp'
 require 'openssl'
 require "awesome_print"
 
+exit if ARGV[0][0] == "#" # if first character is a "#" then exit
 # https://stackoverflow.com/questions/1113422/how-to-bypass-ssl-certificate-verification-in-open-uri
 # https://gist.github.com/siruguri/66926b42a0c70ef7119e kludge:
 prev_setting = OpenSSL::SSL.send(:remove_const, :VERIFY_PEER)
@@ -24,7 +25,6 @@ form.field_with(id: 'lia-login').value = userid
 form.field_with(id: 'lia-password').value = password
 
 page = form.submit
-
 
 showfor_page = mechanize.get ARGV[0]
 form = showfor_page.forms[1]
