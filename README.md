@@ -5,7 +5,8 @@ roland's fun showfor.json for lithium repo
 
 ## 14June2017
 how to blank out Firefox, here's an example for Japanese:
-```./paste-showfor.json \
+```bash
+./paste-showfor.json \
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-ja/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor \
 blank.json
 ```
