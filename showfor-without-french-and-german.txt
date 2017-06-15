@@ -85,3 +85,8 @@ https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Abn-bd/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 # bosnian - bs
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Abs/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# traditional chinese aka zh-tw
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Azh-tw/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# russian aka ru
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Aru/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-ru/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
