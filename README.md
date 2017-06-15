@@ -4,7 +4,14 @@ roland's fun showfor.json for lithium repo
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
 ## 14June2017
-* 1\. added Finnish, Hungarian, Italian (had to manually blank out the showfor.json for italian->Firefox)
+how to blank out Firefox, here's an example for Japanese:
+```./paste-showfor.json \
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-ja/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor \
+blank.json
+```
+* 1\. added Finnish, Hungarian
+* 2\. Italian (had to manually blank out the showfor.json for italian->Firefox)
+* 3\. Japanese had to manually blank out showfor.json
 
 ## 13June2017
 ### Multiple files at a time
