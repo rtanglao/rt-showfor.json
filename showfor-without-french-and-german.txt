@@ -1,7 +1,10 @@
+# arabic
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Aar/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# ac 
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Acs/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Ada/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Ael/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# spanish
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Aes/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-es/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-Android-es/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
@@ -15,6 +18,7 @@ https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3ASupport-Forums-es/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AContributor_resources_spanish/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3Atkb-templates-es/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# Finnish
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Afi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-Android-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
@@ -27,3 +31,57 @@ https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AArchive-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3ASupport-Forums-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3Atkb-templates-fi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# hungarian
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Ahu/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# indonesian
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Aid/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# italian
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Ait/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# japanese
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Aja/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-ja/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# korean
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Ako/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# dutch aka nederlands
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Anl/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-nl/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3Ainstall-and-update-kb-nl/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# polish aka polski
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Apl/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-pl/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# brazillian portuguese - pt-br
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Apt-br/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-pt-br/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3Ainstall-and-update-kb-pt-br/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# pt-pt portuguese portuguese
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Apt-pt/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-pt-pt/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# sk ak slovak
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Ask/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-sk/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3Ainstall-and-update-kb-sk/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# sl aka slovenia
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Asl/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# sv aka svenska
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Asv/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-sv/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3Ainstall-and-update-kb-sv/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# tr aka turkey
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Atr/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# uk aka ukrainan
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Auk/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# vi aka vietnamese
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Avi/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# simplified chinese aka zh-cn
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Azh-cn/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-zh-cn/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# afrikaans aka af
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Aaf/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# azerbajan aka az
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Aaz/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# bg aka Bulgarian
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Abg/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# bn-bd bengali bangladesh
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Abn-bd/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# bosnian - bs
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Abs/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
