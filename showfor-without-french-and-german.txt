@@ -90,3 +90,5 @@ https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node
 # russian aka ru
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3Aru/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-ru/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+# de missed some
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-de/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
