@@ -4,7 +4,7 @@ roland's fun showfor.json for lithium repo
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
 ## 14June2017
-* 1\. added Finnish
+* 1\. added Finnish, Hungarian, Italian (had to manually blank out the showfor.json for italian->Firefox)
 
 ## 13June2017
 ### Multiple files at a time
