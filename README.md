@@ -13,6 +13,7 @@ blank.json
 * 1\. added Finnish, Hungarian
 * 2\. Italian (had to manually blank out the showfor.json for italian->Firefox)
 * 3\. Japanese had to manually blank out showfor.json
+* 4\. Done up until Bosnia, 22 to go (to make it work, you add showfor.json to the top level locale and if need be, blank out locale->Firefox and locale->Firefox->whatever the sub category is)
 
 ## 13June2017
 ### Multiple files at a time
