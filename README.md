@@ -18,6 +18,9 @@ Thought of a script per locale: ```paste-Firefox-showfor-for-a-locale.rb```
 ```
 * 2\. Firefox and install and update won't work with dsb, et,etc because e.g. with dsb there's no Firefox-dsb or tkb for dsb
 <br /> Sample error with dsb:
+```bash
+./paste-Firefox-showfor-for-a-locale.rb dsb showfor.json
+```
 ```
 Net::HTTPNotFound for 
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/\
