@@ -3,6 +3,14 @@ roland's fun showfor.json for lithium repo
 ## Other folks' showfor stuff
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
+## 15June2017
+
+Thought of a script per locale: ```paste-Firefox-showfor-for-a-locale.rb```
+* 1\. ```./paste-Firefox-showfor-for-a-locale.rb <locale> <showfor.json>```
+* 2\. pseudocode:
+* a) baseurl = ```https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3A**<locale>**/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor``` ; ./paste-showfor.json.rb baseurl <showfor.json>
+* b) firefox_url = baseurl with <locale> changed to **Firefox-<locale>** ; ./paste-showfor.json.rb firefox_url <showfor.json>
+* c) install_and_update_url = ```https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3Ainstall-and-update-kb-**<locale>**/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor``` ./paste-showfor.json.rb install_and_update_url blank.json
 ## 14June2017
 how to blank out Firefox, here's an example for Japanese:
 ```bash
