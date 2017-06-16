@@ -4,19 +4,44 @@ roland's fun showfor.json for lithium repo
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
 ## 15June2017
-
+### 15June2017-script per locale
 Thought of a script per locale: ```paste-Firefox-showfor-for-a-locale.rb```
 * 1\. ```./paste-Firefox-showfor-for-a-locale.rb <locale> <showfor.json>```
 * 2\. pseudocode:
 * a) baseurl = ```https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3A**<locale>**/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor``` ; ./paste-showfor.json.rb baseurl <showfor.json>
 * b) firefox_url = baseurl with ```<locale>``` changed to **Firefox-\<locale>** ; ./paste-showfor.json.rb firefox_url <showfor.json>
 * c) install_and_update_url = ```https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3Ainstall-and-update-kb-**<locale>**/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor``` ./paste-showfor.json.rb install_and_update_url blank.json
+### 15June2017-running script per locale
+* 1\. successful run with German
+```bash
+./paste-Firefox-showfor-for-a-locale.rb de showfor.json
+```
+* 2\. Firefox and install and update won't work with dsb, et,etc because e.g. with dsb there's no Firefox-dsb or tkb for dsb
+<br /> Sample error with dsb:
+```
+Net::HTTPNotFound for 
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/\
+category%3AFirefox-dsb/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor 
+-- unhandled response (Mechanize::ResponseCodeError)
+
+Net::HTTPNotFound for 
+https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/\
+tkb-board%3Ainstall-and-update-kb-dsb/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor 
+-- unhandled response (Mechanize::ResponseCodeError)
+```
 ## 14June2017
 how to blank out Firefox, here's an example for Japanese:
 ```bash
 ./paste-showfor.json \
 https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-ja/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor \
 blank.json
+```
+error:
+```
+Net::HTTPNotFound for https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/category%3AFirefox-dsb/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor -- unhandled response (Mechanize::ResponseCodeError)
+	from /Users/rtanglao/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/mechanize-2.7.5/lib/mechanize.rb:464:in `get'
+	from ./paste-showfor.json.rb:29:in `<main>'
+Net::HTTPNotFound for https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3Ainstall-and-update-kb-dsb/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor -- unhandled response (Mechanize::ResponseCodeError)
 ```
 * 1\. added Finnish, Hungarian
 * 2\. Italian (had to manually blank out the showfor.json for italian->Firefox)
