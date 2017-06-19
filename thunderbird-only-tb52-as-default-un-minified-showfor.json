@@ -38,7 +38,7 @@
 		{
 			"product": "thunderbird",
 			"default": true,
-			"visible": false,
+			"visible": true,
 			"min_version": 52,
 			"max_version": 53,
 			"slug": "tb52",
