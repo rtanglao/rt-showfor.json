@@ -1,0 +1,226 @@
+{
+	"platforms": {
+		"thunderbird": [
+		{
+			"visible": true,
+			"slug": "linux",
+			"name": "Linux"
+		},
+		{
+			"visible": true,
+			"slug": "mac",
+			"name": "Mac"
+		},
+		{
+			"visible": true,
+			"slug": "winxp",
+			"name": "Windows XP"
+		},
+		{
+			"visible": true,
+			"slug": "win7",
+			"name": "Windows 7/Vista"
+		},
+		{
+			"visible": true,
+			"slug": "win8",
+			"name": "Windows 8"
+		},
+		{
+		"visible": true,
+		"slug": "win10",
+		"name": "Windows 10"
+	}
+	]
+	},
+	"versions": {
+		"thunderbird": [
+		{
+			"product": "thunderbird",
+			"default": true,
+			"visible": false,
+			"min_version": 52,
+			"max_version": 53,
+			"slug": "tb52",
+			"name": "Version 52"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": true,
+			"min_version": 45,
+			"max_version": 46,
+			"slug": "tb45",
+			"name": "Version 45"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": true,
+			"min_version": 38,
+			"max_version": 39,
+			"slug": "tb38",
+			"name": "Version 38"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": true,
+			"min_version": 31,
+			"max_version": 32,
+			"slug": "tb31",
+			"name": "Version 31"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": true,
+			"min_version": 24,
+			"max_version": 25,
+			"slug": "tb24",
+			"name": "Version 24"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": true,
+			"min_version": 17,
+			"max_version": 18,
+			"slug": "tb17",
+			"name": "Version 17"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 16,
+			"max_version": 17,
+			"slug": "tb16",
+			"name": "Version 16"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 15,
+			"max_version": 16,
+			"slug": "tb15",
+			"name": "Version 15"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 14,
+			"max_version": 15,
+			"slug": "tb14",
+			"name": "Version 14"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 13,
+			"max_version": 14,
+			"slug": "tb13",
+			"name": "Version 13"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 12,
+			"max_version": 13,
+			"slug": "tb12",
+			"name": "Version 12"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 11,
+			"max_version": 12,
+			"slug": "tb11",
+			"name": "Version 11"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 10,
+			"max_version": 11,
+			"slug": "tb10",
+			"name": "Version 10"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 9,
+			"max_version": 10,
+			"slug": "tb9",
+			"name": "Version 9"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 8,
+			"max_version": 9,
+			"slug": "tb8",
+			"name": "Version 8"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 7,
+			"max_version": 8,
+			"slug": "tb7",
+			"name": "Version 7"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 6,
+			"max_version": 7,
+			"slug": "tb6",
+			"name": "Version 6"
+		},
+		{
+			"product": "thunderbird",
+			"default": false,
+			"visible": false,
+			"min_version": 5,
+			"max_version": 6,
+			"slug": "tb5",
+			"name": "Version 5"
+		},
+		{
+		"product": "thunderbird",
+		"default": false,
+		"visible": false,
+		"min_version": 4,
+		"max_version": 5,
+		"slug": "tb4",
+		"name": "Version 4"
+	}
+	]
+	},
+	"products": [
+		{
+		"title": "Thunderbird",
+		"visible": true,
+		"platforms": [
+			"win8",
+			"win7",
+			"winxp",
+			"mac",
+			"linux",
+			"win10"
+		],
+		"slug": "thunderbird"
+	}
+	]
+}
