@@ -4,8 +4,8 @@ roland's fun showfor.json for lithium repo
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
 ## 18June2017 remove non Thunderbird showfor pickers from Thunderbird
-* 1\. Save the curerent showfor for ```Mozilla Support - English```->```Thunderbird```-> ```Install, Migrate and Update``` i.e. https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3AInstall-Migrate-Update/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
-* 2\. Replace with Thunderbird only with tb52 as default
+* 1\. Save the current [thunderbird 45 as default showfor for ```Mozilla Support - English```->```Thunderbird```-> ```Install, Migrate and Update```](https://github.com/rtanglao/rt-showfor.json/blob/master/moz-support-english-thunderbird-install-migrate-update-all-products-tb45-as-default-minified-showfor.json) i.e. https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3AInstall-Migrate-Update/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+* 2\. Replace with [Minified Thunderbird only with tb52 as default](https://github.com/rtanglao/rt-showfor.json/blob/master/thunderbird-only-tb52-as-default-minified-showfor.json) (unminified:[Thunderbird only with tb52 as default](https://github.com/rtanglao/rt-showfor.json/blob/master/thunderbird-only-tb52-as-default-un-minified-showfor.json))
 * 3\. See if this fixes https://hwsfp35778.lithium.com/t5/Install-Migrate-and-Update/Moving-Thunderbird-Data-to-a-New-Computer/ta-p/14714 to only have a Thunderbird showfor picker (and no other pickers like Firefox picker)
 ## 15June2017
 ### 15June2017-script per locale
