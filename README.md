@@ -3,6 +3,10 @@ roland's fun showfor.json for lithium repo
 ## Other folks' showfor stuff
 * see mythmon's tests for showfor: https://gist.github.com/mythmon/7236259
 
+## 18June2017 remove non Thunderbird showfor pickers from Thunderbird
+* 1\. Save the curerent showfor for ```Mozilla Support - English```->```Thunderbird```-> ```Install, Migrate and Update``` i.e. https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3AInstall-Migrate-Update/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
+* 2\. Replace with Thunderbird only with tb52 as default
+* 3\. See if this fixes https://hwsfp35778.lithium.com/t5/Install-Migrate-and-Update/Moving-Thunderbird-Data-to-a-New-Computer/ta-p/14714 to only have a Thunderbird showfor picker (and no other pickers like Firefox picker)
 ## 15June2017
 ### 15June2017-script per locale
 Thought of a script per locale: ```paste-Firefox-showfor-for-a-locale.rb```
