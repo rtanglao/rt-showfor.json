@@ -1,0 +1,532 @@
+{
+	"platforms": {
+		"firefox": [
+		{
+			"visible": true,
+			"slug": "linux",
+			"name": "Linux"
+		},
+		{
+			"visible": true,
+			"slug": "mac",
+			"name": "Mac"
+		},
+		{
+			"visible": true,
+			"slug": "winxp",
+			"name": "Windows XP"
+		},
+		{
+			"visible": true,
+			"slug": "win7",
+			"name": "Windows 7/Vista"
+		},
+		{
+			"visible": true,
+			"slug": "win8",
+			"name": "Windows 8"
+		},
+		{
+		"visible": true,
+		"slug": "win10",
+		"name": "Windows 10"
+	}
+	]
+	},
+	"versions": {
+		"firefox": [
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": true,
+			"min_version": 55,
+			"max_version": 56,
+			"slug": "fx55",
+			"name": "Version 55"
+		},
+		{
+			"product": "firefox",
+			"default": true,
+			"visible": true,
+			"min_version": 54,
+			"max_version": 55,
+			"slug": "fx54",
+			"name": "Version 54"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": true,
+			"min_version": 53,
+			"max_version": 54,
+			"slug": "fx53",
+			"name": "Version 53"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": true,
+			"min_version": 52,
+			"max_version": 53,
+			"slug": "fx52",
+			"name": "Version 52"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": true,
+			"min_version": 51,
+			"max_version": 52,
+			"slug": "fx51",
+			"name": "Version 51"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": true,
+			"min_version": 50,
+			"max_version": 51,
+			"slug": "fx50",
+			"name": "Version 50"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": true,
+			"min_version": 49,
+			"max_version": 50,
+			"slug": "fx49",
+			"name": "Version 49"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": true,
+			"min_version": 48,
+			"max_version": 49,
+			"slug": "fx48",
+			"name": "Version 48"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": true,
+			"min_version": 47,
+			"max_version": 48,
+			"slug": "fx47",
+			"name": "Version 47"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": true,
+			"min_version": 46,
+			"max_version": 47,
+			"slug": "fx46",
+			"name": "Version 46"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": true,
+			"min_version": 45,
+			"max_version": 46,
+			"slug": "fx45",
+			"name": "Version 45"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 44,
+			"max_version": 45,
+			"slug": "fx44",
+			"name": "Version 44"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 43,
+			"max_version": 44,
+			"slug": "fx43",
+			"name": "Version 43"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 42,
+			"max_version": 43,
+			"slug": "fx42",
+			"name": "Version 42"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 41,
+			"max_version": 42,
+			"slug": "fx41",
+			"name": "Version 41"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 40,
+			"max_version": 41,
+			"slug": "fx40",
+			"name": "Version 40"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 39,
+			"max_version": 40,
+			"slug": "fx39",
+			"name": "Version 39"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 38,
+			"max_version": 39,
+			"slug": "fx38",
+			"name": "Version 38"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 37,
+			"max_version": 38,
+			"slug": "fx37",
+			"name": "Version 37"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 36,
+			"max_version": 37,
+			"slug": "fx36",
+			"name": "Version 36"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 35,
+			"max_version": 36,
+			"slug": "fx35",
+			"name": "Version 35"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 34,
+			"max_version": 35,
+			"slug": "fx34",
+			"name": "Version 34"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 33,
+			"max_version": 34,
+			"slug": "fx33",
+			"name": "Version 33"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 32,
+			"max_version": 33,
+			"slug": "fx32",
+			"name": "Version 32"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 31,
+			"max_version": 32,
+			"slug": "fx31",
+			"name": "Version 31"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 30,
+			"max_version": 31,
+			"slug": "fx30",
+			"name": "Version 30"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 29,
+			"max_version": 30,
+			"slug": "fx29",
+			"name": "Version 29"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 28,
+			"max_version": 29,
+			"slug": "fx28",
+			"name": "Version 28"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 27,
+			"max_version": 28,
+			"slug": "fx27",
+			"name": "Version 27"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 26,
+			"max_version": 27,
+			"slug": "fx26",
+			"name": "Version 26"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 25,
+			"max_version": 26,
+			"slug": "fx25",
+			"name": "Version 25"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 24,
+			"max_version": 25,
+			"slug": "fx24",
+			"name": "Version 24"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 24,
+			"max_version": 25,
+			"slug": "fx24",
+			"name": "Version 24 ESR"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 23,
+			"max_version": 24,
+			"slug": "fx23",
+			"name": "Version 23"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 22,
+			"max_version": 23,
+			"slug": "fx22",
+			"name": "Version 22"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 21,
+			"max_version": 22,
+			"slug": "fx21",
+			"name": "Version 21"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 20,
+			"max_version": 21,
+			"slug": "fx20",
+			"name": "Version 20"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 19,
+			"max_version": 20,
+			"slug": "fx19",
+			"name": "Version 19"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 18,
+			"max_version": 19,
+			"slug": "fx18",
+			"name": "Version 18"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 17,
+			"max_version": 18,
+			"slug": "fx17",
+			"name": "Version 17 (ESR)"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 16,
+			"max_version": 17,
+			"slug": "fx16",
+			"name": "Version 16"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 15,
+			"max_version": 16,
+			"slug": "fx15",
+			"name": "Version 15"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 14,
+			"max_version": 15,
+			"slug": "fx14",
+			"name": "Version 14"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 13,
+			"max_version": 14,
+			"slug": "fx13",
+			"name": "Version 13"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 12,
+			"max_version": 13,
+			"slug": "fx12",
+			"name": "Version 12"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 11,
+			"max_version": 12,
+			"slug": "fx11",
+			"name": "Version 11"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 10,
+			"max_version": 11,
+			"slug": "fx10",
+			"name": "Version 10 (ESR)"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 9,
+			"max_version": 10,
+			"slug": "fx9",
+			"name": "Version 9"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 8,
+			"max_version": 9,
+			"slug": "fx8",
+			"name": "Version 8"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 7,
+			"max_version": 8,
+			"slug": "fx7",
+			"name": "Version 7"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 6,
+			"max_version": 7,
+			"slug": "fx6",
+			"name": "Version 6"
+		},
+		{
+			"product": "firefox",
+			"default": false,
+			"visible": false,
+			"min_version": 5,
+			"max_version": 6,
+			"slug": "fx5",
+			"name": "Version 5"
+		},
+		{
+		"product": "firefox",
+		"default": false,
+		"visible": false,
+		"min_version": 4,
+		"max_version": 5,
+		"slug": "fx4",
+		"name": "Version 4"
+	}
+	]
+	},
+	"products": [
+		{
+		"title": "Firefox",
+		"visible": true,
+		"platforms": [
+			"win8",
+			"win7",
+			"winxp",
+			"mac",
+			"linux",
+			"win10"
+		],
+		"slug": "firefox"
+	}
+	]
+}
