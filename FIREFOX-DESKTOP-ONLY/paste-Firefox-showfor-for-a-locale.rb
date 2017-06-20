@@ -55,7 +55,7 @@ personalize_firefox_url = base_url +
  sprintf(
  "tkb-board%%3APersonalizeFirefox-%s/preferred-tab/community%%3Aadmin%%3Asystem%%3Asettings-list-editor",
  locale)
-sync_and_save_url.gsub!("-en", "") if locale == "en"
+personalize_firefox_url.gsub!("-en", "") if locale == "en"
 puts `../paste-showfor.json.rb #{personalize_firefox_url} blank.json`
 
 # https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3AFixproblems/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
