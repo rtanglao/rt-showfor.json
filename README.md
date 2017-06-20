@@ -5,7 +5,11 @@ roland's fun showfor.json for lithium repo
 
 ## 19June2017 - Remove non Firefox Desktop from Firefox English (en) desktop
 * 1\. ```mkdir /Users/rtanglao/Dropbox/GIT/rt-showfor-json/FIREFOX-DESKTOP-ONLY ; cd !$```
-* 2\. ```./paste-Firefox-showfor-for-a-locale.rb en showfor.json```
+* 2\. remove thunderbird, firefox for android, etc and make unminified ```firefox54-default-firefox-only-showfor.json``` in a json editor
+```bash
+jq -c . <firefox54-default-firefox-only-showfor.json >showfor.json
+```
+* 3\. ```./paste-Firefox-showfor-for-a-locale.rb en showfor.json```
 ## 18June2017 remove non Thunderbird showfor pickers from Thunderbird
 * 1\. Save the current [thunderbird 45 as default showfor for ```Mozilla Support - English```->```Thunderbird```-> ```Install, Migrate and Update```](https://github.com/rtanglao/rt-showfor.json/blob/master/moz-support-english-thunderbird-install-migrate-update-all-products-tb45-as-default-minified-showfor.json) i.e. https://hwsfp35778.lithium.com/t5/bizapps/bizappspage/tab/community%3Aadmin/node-display-id/tkb-board%3AInstall-Migrate-Update/preferred-tab/community%3Aadmin%3Asystem%3Asettings-list-editor
 * 2\. Replace with [Minified Thunderbird only with tb52 as default](https://github.com/rtanglao/rt-showfor.json/blob/master/thunderbird-only-tb52-as-default-minified-showfor.json) (unminified:[Thunderbird only with tb52 as default](https://github.com/rtanglao/rt-showfor.json/blob/master/thunderbird-only-tb52-as-default-un-minified-showfor.json))
